@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Srinivas Adepu, A Statistician/Quantitative/Researcher/Data Scientist/Software Craftsman
 - 👀 I’m interested in ...Statistical Learning,  High dimensional data, Computer vision in trading
-- 🌱 I’m currently learning ...CL ( Continous Learner ) 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m Continous Learner
+- 💞️ I’m looking to collaborate on quant 
 - 📫 How to reach me ...@Linkedin 
 
 <!---
