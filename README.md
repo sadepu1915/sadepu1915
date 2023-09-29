@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Statistical Learning,  High dimensional data, Computer vision in trading
 - 🌱 I’m Continous Learner
 - 💞️ I’m looking to collaborate on quant 
-- 📫 How to reach me ...@Linkedin 
+- 📫 How to reach me ..https://www.linkedin.com/in/srinivas-adepu-0448526/
 
 <!---
 sadepu1915/sadepu1915 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
